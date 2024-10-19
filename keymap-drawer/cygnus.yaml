@@ -152,8 +152,8 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:bluetooth-connect$$', h: '5'}
   - {t: '$$mdi:bluetooth-connect$$', h: '6'}
-  - {t: '$$mdi:bluetooth-connect$$', h: '7'}
-  - {t: '$$mdi:bluetooth-connect$$', h: '8'}
+  - OUT USB
+  - OUT BLE
   - {t: '$$mdi:toggle-switch$$', h: '$$mdi:bluetooth$$', s: '$$mdi:usb$$'}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
